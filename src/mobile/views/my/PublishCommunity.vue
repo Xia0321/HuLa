@@ -51,7 +51,7 @@
             <n-radio-group
               :value="permission"
               @update:value="
-                (e) => {
+                ( e: string) => {
                   permission = e
                   handlePermissionChange(e)
                 }
