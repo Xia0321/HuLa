@@ -19,7 +19,7 @@
       "draco",
       "docs"
     ],
-    "createUpdaterArtifacts": true,
+    "createUpdaterArtifacts": false,
     "active": true,
     "icon": [
       "icons/32x32.png",
